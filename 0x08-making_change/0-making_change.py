@@ -43,5 +43,3 @@ def makeChange(coins, total):
             coin_idx += 1
 
     return coins_count
-     
-
